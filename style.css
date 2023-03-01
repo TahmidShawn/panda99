@@ -1,0 +1,75 @@
+.container{
+    margin-bottom: 100px;
+}
+.bg-red{
+    background-color: #fceae8;
+    border-radius: 10px;
+}
+
+.carousel-item{
+    padding: 20px 40px;
+}
+
+.buy-now-button{
+    background-color: rgb(114, 112, 89);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    cursor: pointer;
+    width: 200px;
+    margin-top: 20px;
+}
+
+.buy-now-button:hover{
+    background-color: #ff136f;
+}
+
+.cat1{
+    background-color: rgb(76, 216, 41);
+    border-radius: 10px;
+    cursor: pointer;
+    color: white;
+}
+
+.cat2{
+    background-color: #ff136f;
+    border-radius: 10px;
+    cursor: pointer;
+    color: white;
+}
+
+.cat3{
+    background-color: blue;
+    border-radius: 10px;
+    cursor: pointer;
+    color: white;
+}
+
+.col-md-4 h1{
+    margin: 0 auto;
+}
+
+.s-btn{
+    width: 100%;
+    background-color: #ff136f;
+    transition: .5s;
+}
+
+.s-btn:hover{
+    background-color: #f7ae26;
+    color: white;
+    
+}
+
+.card{
+    box-shadow: 5px 5px 10px lightgray;
+}
+
+.aa{
+    height: 300px;
+}
+
+footer{
+    text-align: center;
+}
